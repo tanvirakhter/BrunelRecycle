@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "444631062619",
+    "project_id": "brunel-recycle-77b23",
+    "storage_bucket": "brunel-recycle-77b23.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:444631062619:android:cacf456d6d33a8a6cbc77e",
+        "android_client_info": {
+          "package_name": "com.example.brunelrecycleprototype"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "444631062619-1vv0co0cdgkenigimd7q4qf5ldg53bda.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCee5EZppRFAohLE-H0vq84E_hMvDaSr9c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "444631062619-1vv0co0cdgkenigimd7q4qf5ldg53bda.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "444631062619-teum9p9cr014uo5pqqnfdf00oej17e52.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.brunelrecycleprototype"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
